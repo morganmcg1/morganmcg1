@@ -21,7 +21,7 @@
     - I commit not to lie to anyone
     - We should always default to open, there should be very very few situations when a meeting or document needs to be kept private.
 
-]- ## Conviction
+- ## Conviction
     - "Strong opinions, weakly held"
     - I often have a strong belief in what the correct course of action should be. This doesn't mean I am not willing to hear differing views, quite the opposite, please try and convince me why I am wrong/your are correct.
 
