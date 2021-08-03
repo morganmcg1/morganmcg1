@@ -32,7 +32,7 @@
     - I have a high tolerance of change and believe change is good; from team and company structures, to areas of focus within a business to seating arrangements.
     - I need to know if you do not have a high tolerance of change. I will try and be aware when those I work with are struggling with change, if it seems like I am not, please point this out to me.
 
-- ## [[1:1s]]
+- ## 1:1s
     - 1:1s YOUR time:
         - How you are doing
         - What you need
